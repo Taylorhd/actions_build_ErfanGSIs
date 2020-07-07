@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://gd.secco.workers.dev/Mirrorbot/AbhiX_ROG_Edition_WhyRed_20.7.2_10.zip 
-  ROM_NAME: MiUI
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 jobs:
